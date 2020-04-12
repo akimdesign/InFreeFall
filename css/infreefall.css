@@ -1,0 +1,314 @@
+sup { 
+    vertical-align: super; 
+    font-size: small; 
+} 
+
+.title {
+    padding: 1em;
+}
+
+.hito {
+    padding-left: 1em;
+}
+/* Images */
+.earth {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+.perspective {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    
+}
+.drawingper {
+    width: 55%;
+    height: auto;
+    
+}
+
+.sextant {
+    float: left;
+    padding-top: 1em;
+    width: 600px;
+    height: auto;
+}
+
+.uccello {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+.painting {
+    width: 55%;
+    height: auto;
+}
+
+.slave {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    width: 55%;
+    height: auto;
+}
+.ship {
+    width: 100%;
+    height: auto;
+}
+
+.clark {
+    float: left;
+    width: 300px;
+    height: auto;
+    padding-right: 2em;
+}
+.caption {
+    float: left;
+}
+
+.spaceearth {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: -100;
+}
+
+.spearth {
+    width: 60%;
+    height: auto;
+}
+/* Images END */
+
+body {
+    font-family: 'Crimson Text';
+}
+
+p {
+    font-size: 18px;
+    margin-right: 680px;
+    margin-left: 40px;
+    /* padding-bottom: 1em; */
+    margin-bottom: 5px;
+}
+
+/* article sections */
+.a1 {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: -100vh;
+    background:white;
+    margin-bottom: -17px;
+    padding-bottom: 5em;
+    padding-top: 1em;
+}
+
+.a2 {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: -3000;
+    background:white;
+    padding-bottom: 3em;
+}
+
+.afterucc {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: auto;
+    background:white;
+    padding-bottom: 3em;
+}
+
+.a3 {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: -100vh;
+    background:white;
+    padding-bottom: 2em;
+}
+
+.a4 {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: -100vh;
+    background:white;
+    padding-bottom: 3em;
+    margin-bottom: 2em;
+    padding-top: 1em;
+}
+
+.a5 {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: -100vh;
+    background:white;
+    padding-top: 1em;
+    margin-top: -2em;
+    padding-bottom: 3em;
+    margin-bottom: -2em;
+}
+
+.a6 {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: -100vh;
+    background:white;
+    padding-bottom: 2em;
+    padding-top: 1em;
+}
+
+.a7 {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: -100vh;
+    background:white;
+
+}
+.quote {
+    width: 600px;
+    margin: 1em;
+    margin-left: 13em;
+    padding-top: 2em;
+    padding-bottom: 3em;
+}
+
+.colophon {
+    width: 100%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: -100vh;
+    background:white;
+    padding-bottom: 5em;
+    padding-top: 1em;
+    padding-left: 30px;
+}
+
+.colo {
+    font-size: 30px;
+}
+h1 {
+    font-size: 30px;
+    position:sticky;
+    top:-100vw;
+    background:white;
+}
+
+h2 {
+    font-size: 40px;
+}
+/* article section END */
+
+/* Chapter Titles */
+.history {
+    font-size: 35px;
+    margin-left: 30px;
+}
+
+.downfall {
+    font-size: 35px;
+    margin-left: 30px;
+}
+
+.acceleration {
+    font-size: 35px;
+    margin-left: 30px;
+}
+
+.fall {
+    font-size: 35px;
+    margin-left: 30px;
+}
+
+.politics {
+    font-size: 35px;
+    margin-left: 30px;
+}
+
+.footnotetitle {
+    font-size: 25px;
+    background: white;
+    margin-left: 30px;
+}
+
+#footnotes {
+    font-size: 14px;
+    margin-left: 30px;
+    width: 70%;
+    height: auto;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background:white;
+}
+
+#myBtn {
+    position: fixed;
+    bottom: 10px;
+    float: right;
+    right: 3em;
+    left: auto;
+    max-width: 30px;
+    width: 100%;
+    font-size: 12px;
+    border-color: rgba(85, 85, 85, 0.2);
+    background-color: teal;
+    padding: .8px;
+    border-radius: 4px;
+
+}
+/*On Hover Color Change*/
+#myBtn:hover {
+    background-color: #7dbbf1;
+}
+
+/* a {
+    color: teal;
+} */
+
+/* unvisited link */
+a:link {
+    color:teal;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: palevioletred;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: thistle;
+  }
+  
+  /* selected link */
+  a:active {
+    color: paleturquoise;
+  }
